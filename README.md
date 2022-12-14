@@ -1,5 +1,5 @@
 # IDEF
-<h1 align="center">Lиаграммs IDEF</h1> 
+<h1 align="center">Диаграммы IDEF</h1> 
 <h3 align="center">Студентка группы ИВ1-21 Короткова Зоя "</h3>
 <p align="center"><b>Инструкция по открытию диаграмм IDEF </b></p>
 <ul>
